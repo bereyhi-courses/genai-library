@@ -1,4 +1,4 @@
-# Library of Course Applied Deep Learning 
+# Library of Course Deep Generative Models
 A. Bereyhi at the _ECE Department_ of __UofT__
 
 This library includes the lecture-notes of the course _Deep Generative Models,_ as well as links to other resources.
